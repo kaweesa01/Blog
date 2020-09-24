@@ -20,12 +20,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '@z@5kfi1^x7q#+-ycq#-xack-k59vfzqq6p98b5%eezp8p+#&4'
+SECRET_KEY = '@z@5kfi1^x7q#+-ycq#-xack-r59vfzqq6p98b5%eezp8p+#&4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["katwe-colab.herokuapp.com",'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ["katwe-blog.herokuapp.com",'localhost', '127.0.0.1']
 
 
 # Application definition
