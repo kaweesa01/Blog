@@ -1,0 +1,26 @@
+export const GET_BLOG_POSTS = "GET_BLOG_POSTS";
+export const GET_USER_BLOG_POSTS = "GET_USER_BLOG_POSTS";
+export const GET_ADMIN_BLOG_POSTS = "GET_ADMIN_BLOG_POSTS";
+export const ADD_BLOG_POST = "ADD_BLOG_POST";
+export const DELETE_BLOG_POSTS = "DELETE_BLOG_POSTS";
+export const ADMIN_DELETE_BLOG_POSTS = "ADMIN_DELETE_BLOG_POSTS";
+export const GET_EDIT_BLOG_POST = "GET_EDIT_BLOG_POST";
+export const EDIT_BLOG_POST = "EDIT_BLOG_POST";
+export const SEARCH_BLOG = "SEARCH_BLOG";
+export const CANCEL_SEARCH = "CANCEL_SEARCH";
+export const READ_MORE = "READ_MORE";
+
+export const GET_QUOTE = "GET_QUOTE";
+
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const GET_ERRORS = "GET_ERRORS";
+export const REMOVE_ERRORS = "REMOVE_ERRORS";
+export const GET_MESSAGE = "GET_MESSAGE";
